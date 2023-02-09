@@ -10,17 +10,17 @@ Let's set up the project in quick time by following the steps below & spend all 
 ### Table of contents:
 - [GitHub Repository](#github-repository)
 - [Basic Files](#basic-files)
-- [NPM: Initialize & Install Packages](#npm-initialize-&-install-packages)
-    - [NPM: Init](#npm-init)
-    - [NPM: Install Parcel](#npm-install-parcel)
-    - [NPM: Install React, React DOM & React Router DOM](#npm-install-react-react-dom-&-react-router-dom)
-    - [NPM: Install Parcel](#npm-install-parcel)
+- [NPM: Initialize and Install Packages](#npm-initialize-and-install-packages)
+    - [Init](#init)
+    - [Install Parcel](#install-parcel)
+    - [Install React, React DOM and React Router DOM](#install-react-react-dom-and-react-router-dom)
+    - [Install Parcel](#install-parcel)
 - [.gitignore](#gitignore)
 - [.babelrc](#babelrc)
 - [config.js](#config.js)
 - [Command Scripts](#command-scripts)
 - [Tailwind CSS](#tailwind-css)
-- [Jest & React Testing Library](#jest-&-react-testing-library)
+- [Jest and React Testing Library](#jest-and-react-testing-library)
 - [Redux](#redux)
  
     
