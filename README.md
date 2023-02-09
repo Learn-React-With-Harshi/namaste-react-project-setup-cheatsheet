@@ -29,12 +29,12 @@ Let's set up the project in quick time by following the steps below & spend all 
 
 ### Basic Files:
 
-### NPM - Initialize & Install Packages:
-- Init:
-- Install Parcel:
-- Install React:
-- Install React DOM:
-- Install React Router DOM:
+### NPM - Initialize and Install Packages:
+#### Init:
+#### Install Parcel:
+#### Install React:
+#### Install React DOM:
+#### Install React Router DOM:
 
 ### .gitignore:
 
