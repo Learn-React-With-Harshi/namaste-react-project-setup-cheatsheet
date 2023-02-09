@@ -10,11 +10,12 @@ Let's set up the project in quick time by following the steps below & spend all 
 ### Table of contents:
 - [GitHub Repository](#github-repository)
 - [Basic Files](#basic-files)
-- [NPM: Initialize and Install Packages](#npm-initialize-and-install-packages)
+- [NPM - Initialize and Install Packages](#npm-initialize-and-install-packages)
     - [Init](#init)
     - [Install Parcel](#install-parcel)
-    - [Install React, React DOM and React Router DOM](#install-react-react-dom-and-react-router-dom)
-    - [Install Parcel](#install-parcel)
+    - [Install React](#install-react)
+    - [Install React DOM](#install-react-dom)
+    - [Install React Router DOM](#install-react-router-dom)
 - [.gitignore](#gitignore)
 - [.babelrc](#babelrc)
 - [config.js](#config.js)
@@ -28,11 +29,12 @@ Let's set up the project in quick time by following the steps below & spend all 
 
 ### Basic Files:
 
-### NPM: Initialize & Install Packages:
-- NPM: Init
-- NPM: Install Parcel
-- NPM: Install React, React DOM & React Router DOM
-- NPM: Install Parcel
+### NPM - Initialize & Install Packages:
+- Init:
+- Install Parcel:
+- Install React:
+- Install React DOM:
+- Install React Router DOM:
 
 ### .gitignore:
 
@@ -49,5 +51,5 @@ Let's set up the project in quick time by following the steps below & spend all 
 
 
 
-### Jest & React Testing Library:
+### Jest and React Testing Library:
 #### Redux:
