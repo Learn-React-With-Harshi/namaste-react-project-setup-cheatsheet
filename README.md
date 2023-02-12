@@ -2,10 +2,14 @@
    Documenting my learning journey of [Namaste React Live Course](https://learn.namastedev.com/) conducted by Akshay Saini
 
 
-## React Project Setup Cheatsheet
-Following are the steps that we followed (in namaste react course) while developing a React App. You don't have to jump to multiple websites to copy setup command. Simply, You can refer to this cheatsheet for commands & configuration steps and easily create any new React Application. 
+## Namaste React Project Setup Cheatsheet
+Following are the steps that we followed (in namaste react course) while developing a React App. You don't have to jump to multiple websites to copy setup command. Simply, you can refer to this cheatsheet for commands & configuration steps and easily create any new React Application. 
 
-Let's set up the project in quick time by following the steps below & spend all the time we have for developing the features. 
+### Important Note
+You can follow these steps when you want to learn React in depth and want to know what happens behind the scene of create-react-app. But when you are in time constraint to develop a react app in situations like machine coding round of interview, it's advisable to use create-react-app package which does most of the below steps in less time. 
+
+
+Let's set up the project in quick time by following the steps below & spend all the time that we have for developing the features. 
 
 ### Table of contents:
 - [GitHub Repository](#github-repository)
