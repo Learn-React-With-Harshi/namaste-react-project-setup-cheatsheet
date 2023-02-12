@@ -89,7 +89,7 @@ node_modules
 
 .DS_Store 
 ```
-#### .babelrc:
+### .babelrc:
 Create .gitignore file in the project directory and add the following 
 ```
 {
@@ -114,7 +114,7 @@ Modify the scripts in `package.json`
     "build": "parcel build index.html"
   }
 ```
-#### Tailwind CSS:
+### Tailwind CSS:
 
 1. Install tailwindcss via npm, and `tailwind.config.js` file will be created on executing init command.
 
